@@ -4,6 +4,8 @@
 
 ### Description
 
+A company wants to enable file sharing for it's employees. They identified Owncloud [https://owncloud.org/](https://owncloud.org/). They decided to hire you to do a company grade installation of this product.
+
 ### 0. Preparation
 
 Points: 2
